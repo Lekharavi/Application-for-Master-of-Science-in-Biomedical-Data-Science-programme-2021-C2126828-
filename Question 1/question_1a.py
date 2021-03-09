@@ -33,4 +33,4 @@ ans=findPath(arr,x,y,Sum,path)
 if ans!=0:
     print(ans)
 else:
-    print('Not Possible')
+    print('Error')
